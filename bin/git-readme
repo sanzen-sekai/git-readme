@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat $(git ls-files | grep README)
